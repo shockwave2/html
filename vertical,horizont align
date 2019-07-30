@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <!-- CSS   -->
+   <style>
+    .container {
+    width:100%;
+    display: table;
+    height:auto;
+    }
+ 
+.child {
+  padding:100px;
+  background: red;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+</style> <-- END CSS  -->
+ 
+</head>
+<body >
+ 
+<div class="container">
+<div class="child">
+ 
+Zde <br>
+je<br>
+text.<br>
+ 
+</div>
+</div>
+</body>
+</html>
